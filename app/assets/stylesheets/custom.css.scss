@@ -3,6 +3,17 @@
 body {
   background-color: lightgray ;
 }
+
 .my-menu {
   border-radius: 0 !important;
+}
+
+.my-card {
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 500px;
+}
+
+.my-content {
+  padding: 20px;
 }
